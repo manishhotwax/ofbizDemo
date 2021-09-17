@@ -18,7 +18,8 @@ specific language governing permissions and limitations
 under the License.
 -->
 
-<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://ofbiz.apache.org/dtds/ofbiz-properties.xsd">
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="https://ofbiz.apache.org/dtds/ofbiz-properties.xsd">
     <property key="OfbizDemoApplication">
         <value xml:lang="en">OfbizDemo Application</value>
         <value xml:lang="zh">OfbizDemo应用程序</value>
@@ -40,7 +41,19 @@ under the License.
         <value xml:lang="zh-TW">不允許您檢視這個頁面.</value>
     </property>
 
-
+                    
+    <property key="OfbizDemoFind">
+        <value xml:lang="en">Find</value>
+    </property>
+    <property key="OfbizDemoFirstName">
+        <value xml:lang="en">First Name</value>
+    </property>
+    <property key="OfbizDemoId">
+        <value xml:lang="en">OFBiz Demo Id</value>
+    </property>
+    <property key="OfbizDemoLastName">
+        <value xml:lang="en">Last Name</value>
+    </property>
 
 
 </resource>
