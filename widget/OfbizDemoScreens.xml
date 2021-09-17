@@ -29,7 +29,8 @@ under the License.
             <widgets>
                 <decorator-screen name="OfbizDemoCommonDecorator" location="${parameters.mainDecoratorLocation}">
                     <decorator-section name="body">
-                    </decorator-section>
+                        <label style="h2" text="Hello word"/> 
+                     </decorator-section>
                 </decorator-screen>
             </widgets>
         </section>
